@@ -4,4 +4,6 @@
 
 -> seq_model.h5: is the trained and tested model with 27 layers in total, and about less than 400k parameters. 
 
+-> PNG files show the model training process and model summary with info like number of params 
+
 
